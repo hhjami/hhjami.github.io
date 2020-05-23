@@ -1,8 +1,9 @@
 ---
 layout: post
 title: প্রথম ব্লগ পোস্ট
+published: true
 ---
 
 গিটহাব দিয়ে এটাই আমার প্রথম ব্লগ পোস্ট। টেস্ট করে দেখছি কেমন আসে। 
 
-$$a \equiv b$$
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
