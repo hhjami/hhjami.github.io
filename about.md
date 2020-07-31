@@ -9,6 +9,8 @@ My best memory as a contestant was the championship in NCPC 2011. My team name w
 
 I love my job at CSE, DU. I dream of having a education system in Bangladesh which will teach kids how to solve problems around them and make them empathetic. I am proud of my students. I am sure some day they will achieve my dream. 
 
+The photo as my avatar in this blog is drawn by my sister Jahin.
+
 ### Contact me
 
 [hhjami@gmail.com](mailto:hhjami@gmail.com)
