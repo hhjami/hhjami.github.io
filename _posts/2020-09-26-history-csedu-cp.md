@@ -24,29 +24,29 @@ published: true
 
 10. We have, in total, 24 students who have won a national championship as part of a team. The list is given below. The number of championships is given in the bracket.
 
-Shahed Shahriar (6) - 19th Batch.
-Jubayer Rahman (Nirjhor) (5) - 24th Batch.
-Rezwan Mahmud (Tonmoy) (5) - 20th Batch. 
-Shahadat Hossain Shahin (4) - 21st Batch.
-Mahamudur Rahaman Sajib (4) - 20th Batch.
-Sabit Anwar Zahin (4) - 17th Batch.
-Mudhammad Ridowan (4) - 15th Batch.
-Bidhan Roy (3) - 16th Batch.
-Hasnain Heickal (3) - 13th Batch.
-Tanzir Islam Pial (2) - 20th Batch.
-Sourav Sen Tonmoy (2) - 19th Batch.
-Rashedul Hasan Rijul (2) - 16th Batch.
-Momontho Mashak Monmoy (2) - 16th Batch.
-Zobayer Hasan (2) - 15th Batch.
-Anna Fariha (2) - 13th Batch.
-Md. Shiplu Hawlader (2) - 13th Batch.
-Safayat Ullah (1) - 21st Batch.
-Shafaet Ashraf (1) - 16th Batch. 
-Jane Alam Jan (1) - 10th Batch.
-Syed Zubair Hossain (1) - 8th Batch.
-Mainul Islam (1) - 7th Batch.
-Monirul Islam (Sharif) (1) - 2nd Batch.
-M. Julius Hossain (1) - 2nd Batch.
-Kazi Golam Zilani (1) - 2nd Batch.
+* Shahed Shahriar (6) - 19th Batch.
+* Jubayer Rahman (Nirjhor) (5) - 24th Batch.
+* Rezwan Mahmud (Tonmoy) (5) - 20th Batch. 
+* Shahadat Hossain Shahin (4) - 21st Batch.
+* Mahamudur Rahaman Sajib (4) - 20th Batch.
+* Sabit Anwar Zahin (4) - 17th Batch.
+* Mudhammad Ridowan (4) - 15th Batch.
+* Bidhan Roy (3) - 16th Batch.
+* Hasnain Heickal (3) - 13th Batch.
+* Tanzir Islam Pial (2) - 20th Batch.
+* Sourav Sen Tonmoy (2) - 19th Batch.
+* Rashedul Hasan Rijul (2) - 16th Batch.
+* Momontho Mashak Monmoy (2) - 16th Batch.
+* Zobayer Hasan (2) - 15th Batch.
+* Anna Fariha (2) - 13th Batch.
+* Md. Shiplu Hawlader (2) - 13th Batch.
+* Safayat Ullah (1) - 21st Batch.
+* Shafaet Ashraf (1) - 16th Batch. 
+* Jane Alam Jan (1) - 10th Batch.
+* Syed Zubair Hossain (1) - 8th Batch.
+* Mainul Islam (1) - 7th Batch.
+* Monirul Islam (Sharif) (1) - 2nd Batch.
+* M. Julius Hossain (1) - 2nd Batch.
+* Kazi Golam Zilani (1) - 2nd Batch.
 
 This is a personal list. If I made any mistake, please let me know.
