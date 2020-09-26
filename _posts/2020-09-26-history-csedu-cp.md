@@ -49,4 +49,4 @@ published: true
 * M. Julius Hossain (1) - 2nd Batch.
 * Kazi Golam Zilani (1) - 2nd Batch.
 
-This is a personal list. If I made any mistake, please let me know.
+This is a personal list curated by me. If I have made any mistake, please let me know.
